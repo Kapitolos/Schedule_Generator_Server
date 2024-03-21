@@ -2,7 +2,7 @@
   "name": "THITW-Schedule",
   "version": "1.0.0",
   "description": "THITW Schedule Generator",
-  "main": "server.js",
+  "main": "server_portfolio.js",
   "scripts": {
     "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
