@@ -1,0 +1,560 @@
+{
+    "Mario": {
+        "Bothams": {
+            "lunch": [
+                "Friday",
+                "Saturday",
+                "Sunday",
+                "Thursday",
+                "Wednesday",
+                "Tuesday",
+                "Monday"
+            ],
+            "evening": [],
+            "Runner 1": [],
+            "Runner 2": [],
+            "Runner 3": []
+        },
+        "Hole": {
+            "evening": []
+        },
+        "booked_off_dates": [
+            "2023-03-28"
+        ],
+        "max_shifts": "4",
+        "preferences": []
+    },
+    "Chad": {
+        "Bothams": {
+            "lunch": [
+                "Friday",
+                "Saturday",
+                "Sunday",
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+            ],
+            "evening": [],
+            "Runner 1": [],
+            "Runner 2": [],
+            "Runner 3": []
+        },
+        "Hole": {
+            "evening": []
+        },
+        "booked_off_dates": [
+            "2023-03-28"
+        ],
+        "max_shifts": "4",
+        "preferences": [
+            {
+                "venue": "Bothams",
+                "shift": "lunch",
+                "day": "Monday"
+            }
+        ]
+    },
+    "Julia": {
+        "Bothams": {
+            "lunch": [],
+            "evening": [
+                "Tuesday",
+                "Monday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday",
+                "Sunday"
+            ],
+            "Runner 1": [],
+            "Runner 2": [],
+            "Runner 3": []
+        },
+        "Hole": {
+            "evening": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday",
+                "Sunday"
+            ],
+            "lunch": [
+                "Saturday",
+                "Friday"
+            ]
+        },
+        "booked_off_dates": [
+            "2023-03-28"
+        ],
+        "max_shifts": "5",
+        "preferences": []
+    },
+    "Ryan": {
+        "Bothams": {
+            "lunch": [],
+            "evening": [],
+            "Runner 1": [],
+            "Runner 2": [],
+            "Runner 3": []
+        },
+        "Hole": {
+            "evening": [
+                "Tuesday",
+                "Thursday",
+                "Friday",
+                "Saturday",
+                "Wednesday",
+                "Monday",
+                "Sunday"
+            ]
+        },
+        "booked_off_dates": [
+            "2023-03-28"
+        ],
+        "max_shifts": "4",
+        "preferences": []
+    },
+    "Patrick": {
+        "Bothams": {
+            "lunch": [],
+            "evening": [
+                "Friday",
+                "Monday",
+                "Wednesday",
+                "Tuesday",
+                "Thursday",
+                "Sunday",
+                "Saturday"
+            ],
+            "Runner 1": [],
+            "Runner 2": [],
+            "Runner 3": []
+        },
+        "Hole": {
+            "evening": [
+                "Tuesday",
+                "Saturday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Sunday",
+                "Monday"
+            ]
+        },
+        "booked_off_dates": [
+            "2023-03-28"
+        ],
+        "max_shifts": "4",
+        "preferences": []
+    },
+    "Patricia": {
+        "Bothams": {
+            "lunch": [],
+            "evening": [
+                "Tuesday",
+                "Thursday",
+                "Friday",
+                "Saturday",
+                "Sunday",
+                "Monday",
+                "Wednesday"
+            ],
+            "Runner 1": [],
+            "Runner 2": [],
+            "Runner 3": []
+        },
+        "Hole": {
+            "evening": [
+                "Tuesday",
+                "Thursday",
+                "Friday",
+                "Saturday",
+                "Sunday",
+                "Wednesday",
+                "Monday"
+            ]
+        },
+        "booked_off_dates": [
+            "2023-03-28"
+        ],
+        "max_shifts": "4",
+        "preferences": []
+    },
+    "Irena": {
+        "Bothams": {
+            "lunch": [],
+            "evening": [
+                "Saturday",
+                "Friday",
+                "Wednesday",
+                "Thursday",
+                "Sunday"
+            ],
+            "Runner 1": [],
+            "Runner 2": [],
+            "Runner 3": []
+        },
+        "Hole": {
+            "evening": [
+                "Friday",
+                "Saturday",
+                "Monday",
+                "Sunday",
+                "Thursday",
+                "Wednesday",
+                "Tuesday"
+            ]
+        },
+        "booked_off_dates": [
+            "2023-03-28",
+            "2023-10-09",
+            "2023-10-10",
+            "2023-10-11",
+            "2023-10-12",
+            "2023-10-13",
+            "2023-10-14",
+            "2023-10-15"
+        ],
+        "max_shifts": "3",
+        "preferences": [
+            {
+                "venue": "Hole",
+                "shift": "evening",
+                "day": "Friday"
+            },
+            {
+                "venue": "Hole",
+                "shift": "evening",
+                "day": "Monday"
+            },
+            {
+                "venue": "Bothams",
+                "shift": "evening",
+                "day": "Saturday"
+            }
+        ]
+    },
+    "Thomas": {
+        "Bothams": {
+            "lunch": [],
+            "evening": [
+                "Tuesday",
+                "Thursday",
+                "Monday",
+                "Wednesday",
+                "Saturday",
+                "Sunday"
+            ],
+            "Runner 1": [],
+            "Runner 2": [],
+            "Runner 3": []
+        },
+        "Hole": {
+            "evening": [
+                "Monday",
+                "Wednesday",
+                "Sunday",
+                "Tuesday",
+                "Thursday",
+                "Saturday"
+            ]
+        },
+        "booked_off_dates": [
+            "2023-03-28"
+        ],
+        "max_shifts": "4",
+        "preferences": [
+            {
+                "venue": "Hole",
+                "shift": "evening",
+                "day": "Sunday"
+            },
+            {
+                "venue": "Hole",
+                "shift": "evening",
+                "day": "Monday"
+            },
+            {
+                "venue": "Bothams",
+                "shift": "evening",
+                "day": "Tuesday"
+            }
+        ]
+    },
+    "Kevin": {
+        "Bothams": {
+            "lunch": [],
+            "evening": [
+                "Monday",
+                "Saturday",
+                "Sunday",
+                "Friday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+            ],
+            "Runner 1": [],
+            "Runner 2": [],
+            "Runner 3": []
+        },
+        "Hole": {
+            "evening": []
+        },
+        "booked_off_dates": [
+            "2023-03-28"
+        ],
+        "max_shifts": "4",
+        "preferences": []
+    },
+    "Erica": {
+        "Bothams": {
+            "lunch": [],
+            "evening": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday",
+                "Sunday"
+            ],
+            "Runner 1": [],
+            "Runner 2": [],
+            "Runner 3": []
+        },
+        "Hole": {
+            "evening": []
+        },
+        "booked_off_dates": [
+            "2023-03-28"
+        ],
+        "max_shifts": "3",
+        "preferences": []
+    },
+    "Tayler": {
+        "Bothams": {
+            "lunch": [],
+            "evening": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday",
+                "Sunday"
+            ],
+            "Runner 1": [],
+            "Runner 2": [],
+            "Runner 3": []
+        },
+        "Hole": {
+            "evening": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday",
+                "Sunday"
+            ]
+        },
+        "booked_off_dates": [
+            "2023-03-28"
+        ],
+        "max_shifts": "4",
+        "preferences": []
+    },
+    "Scott": {
+        "Bothams": {
+            "lunch": [
+                "Monday",
+                "Wednesday",
+                "Thursday",
+                "Saturday",
+                "Sunday",
+                "Friday",
+                "Tuesday"
+            ],
+            "evening": [],
+            "Runner 1": [],
+            "Runner 2": [],
+            "Runner 3": []
+        },
+        "Hole": {
+            "evening": []
+        },
+        "booked_off_dates": [],
+        "max_shifts": "3",
+        "preferences": []
+    },
+    "Mark": {
+        "Bothams": {
+            "Runner 1": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday",
+                "Sunday"
+            ],
+            "Runner 2": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday",
+                "Sunday"
+            ],
+            "Runner 3": [
+                "Saturday",
+                "Friday"
+            ],
+            "lunch": [],
+            "evening": []
+        },
+        "Hole": {
+            "evening": []
+        },
+        "booked_off_dates": [],
+        "max_shifts": "4",
+        "preferences": []
+    },
+    "Morgan": {
+        "Bothams": {
+            "Runner 1": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday",
+                "Sunday"
+            ],
+            "Runner 2": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday",
+                "Sunday"
+            ],
+            "Runner 3": [
+                "Friday",
+                "Saturday"
+            ],
+            "lunch": [],
+            "evening": []
+        },
+        "Hole": {
+            "evening": []
+        },
+        "booked_off_dates": [],
+        "max_shifts": "4",
+        "preferences": []
+    },
+    "Antonio": {
+        "Bothams": {
+            "Runner 1": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday",
+                "Sunday"
+            ],
+            "Runner 2": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday",
+                "Sunday"
+            ],
+            "Runner 3": [
+                "Friday",
+                "Saturday"
+            ],
+            "lunch": [],
+            "evening": []
+        },
+        "Hole": {
+            "evening": []
+        },
+        "booked_off_dates": [],
+        "max_shifts": "3",
+        "preferences": []
+    },
+    "Finn": {
+        "Bothams": {
+            "Runner 1": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday",
+                "Sunday"
+            ],
+            "Runner 2": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday",
+                "Sunday"
+            ],
+            "Runner 3": [],
+            "lunch": [],
+            "evening": []
+        },
+        "Hole": {
+            "evening": []
+        },
+        "booked_off_dates": [],
+        "max_shifts": "4",
+        "preferences": []
+    },
+    "Elliot": {
+        "Bothams": {
+            "Runner 1": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday",
+                "Sunday"
+            ],
+            "Runner 2": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday",
+                "Sunday"
+            ],
+            "Runner 3": [
+                "Saturday",
+                "Friday"
+            ],
+            "lunch": [],
+            "evening": []
+        },
+        "Hole": {
+            "evening": []
+        },
+        "booked_off_dates": [],
+        "max_shifts": "3",
+        "preferences": []
+    }
+}

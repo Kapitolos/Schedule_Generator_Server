@@ -1,0 +1,84 @@
+{
+  "Lunch1": [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday",
+    "Sunday"
+  ],
+  "Lunch2": [
+    "Friday",
+    "Saturday",
+    "Sunday"
+  ],
+  "Lunch3": [],
+  "Bothams1": [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday",
+    "Sunday"
+  ],
+  "Bothams2": [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday",
+    "Sunday"
+  ],
+  "Bothams3": [
+    "Friday",
+    "Saturday"
+  ],
+  "Bothams4": [
+    "Friday",
+    "Saturday"
+  ],
+  "Hole1": [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Saturday",
+    "Sunday",
+    "Friday"
+  ],
+  "Hole2": [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday",
+    "Sunday"
+  ],
+  "Runner 1": [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Sunday",
+    "Saturday"
+  ],
+  "Runner 2": [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday",
+    "Sunday"
+  ],
+  "Runner 3": [
+    "Tuesday",
+    "Saturday",
+    "Friday"
+  ]
+}
